@@ -9,5 +9,5 @@ print(text[-1])
 print(text[0])
 
 # 1-3
-prompt = ("What is your name?")
+prompt = ("What is yourr name?")
 print(prompt)
